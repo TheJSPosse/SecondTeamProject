@@ -10,3 +10,7 @@
 
 5)Teamwork-Assignment-Travel-Guide
 
+Ux/Prototyping excersize  
+this team selected on the random principle to work on "Ticket-Store"
+
+
