@@ -41,11 +41,11 @@ Split the different views (core pages) of your assignment and have each team mem
 Our Approach:
 Every team member did a paper sketch of the entire app (see repo). It quickly became apparent from the paper sketches that each team member was focusing on a certain part of the app, so we carried that onto the computer prototype.  
   
-Tasks assignment:
-Nikolay Kolchev (NK) => 
-Nikolay Chernev (NC) =>
-Joro Todorov (JT) =>
-Iova Dineva (ID) => overall graphic direction, Search and Calendar Views
+Tasks assignment:  
+Nikolay Kolchev (NK) =>   
+Nikolay Chernev (NC) =>  
+Joro Todorov (JT) =>  
+Iova Dineva (ID) => overall graphic direction, Search and Calendar Views  
   
 3.	Tools  
 When creating the prototypes, you are free to use whatever method you like, including paper and post-it notes (take pictures and commit them to the repository). Additionally, you may use image editing software, HTML+CSS, or a prototyping tool (Indigo Studio, Balsamiq, etc.).  
